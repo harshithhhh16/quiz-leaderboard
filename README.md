@@ -67,7 +67,7 @@ quiz-leaderboard/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/quiz-leaderboard.git
+git clone https://github.com/harshithhhh16/quiz-leaderboard.git
 cd quiz-leaderboard
 ```
 
@@ -76,7 +76,7 @@ Open `src/main/java/com/bajaj/quiz/QuizLeaderboard.java` and replace:
 ```java
 private static final String REG_NO = "YOUR_REG_NO_HERE";
 ```
-with your actual SRM registration number (e.g., `"RA2211003010001"`).
+with your actual SRM registration number (e.g., `"RA2311003012361"`).
 
 ### 3. Build
 ```bash
@@ -133,4 +133,4 @@ Submission response (HTTP 200):
 
 ---
 
-*Submitted by: [Your Name] — [Your Reg No] — SRM IST, Kattankulathur*
+*Submitted by: NALAM VENKATA SURYA HARSHITH — RA2311003012361 — SRM IST, Kattankulathur*
